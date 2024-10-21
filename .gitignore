@@ -1,0 +1,19 @@
+__pycache__/
+
+# Environments
+.env
+.venv
+dfp2/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+todo/
+
+#Databaase
+db.sqlite3
+# e_solar_calculator.db
+
+#Script
+first_script.py
